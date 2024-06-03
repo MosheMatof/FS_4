@@ -1,0 +1,17 @@
+.keyboard {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+}
+
+.keyboard button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.keyboard .space-button {
+  width: 100%;
+}

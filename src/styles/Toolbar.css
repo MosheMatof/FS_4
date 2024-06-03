@@ -1,0 +1,7 @@
+.toolbar {
+  margin-bottom: 20px;
+}
+
+.toolbar select, .toolbar input, .toolbar button {
+  margin-right: 10px;
+}
